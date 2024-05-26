@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "50OjGCcasriocRWVqP5Z7sPBZKGtE+nPIma6YHS55Eg=",
+  "Source": "OIDC-Demo",
+  "BasePath": "_content/OIDC-Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
